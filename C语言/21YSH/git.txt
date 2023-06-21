@@ -1,0 +1,12 @@
+
+git init
+git add .
+git commit -m "提交文件"
+git remote add origin git@github.com:gain-wyj/wyj_first.git
+yes
+git push -u origin master //把本地库的所有内容推送到远程库上
+
+
+
+
+git@github.com:666Ysh/409.git
